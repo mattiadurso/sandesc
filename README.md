@@ -101,6 +101,3 @@ sandesc/
         organization={IEEE Computer Society}
       }
 ```
-
-----
-This readme is temporarely made with Cloude Sonnet 4.
