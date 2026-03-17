@@ -94,6 +94,9 @@ sandesc/
 ├── train_sandesc.py       # Main training script
 └── README.md
 ```
+## Testing
+
+Please refer to [PoseBench](https://github.com/mattiadurso/PoseBench) for testing. PoseBench currently supports 7 different sparse feature extractors or matchers on 8 different benchmarks, including Graz4K.
 
 ## Citation
 
