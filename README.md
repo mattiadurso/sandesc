@@ -1,4 +1,3 @@
-# 
 <p align="center">
   <h1 align="center">SANDesc: A Streamlined Attention-based Network for Descriptor Extraction</h1>
   <p align="center">
@@ -20,6 +19,13 @@
     <a href="https://mattiadurso.github.io/sandesc/static/pdfs/SANDesc___3DV_SM.pdf" align="center">Supplementary Material</a> | 
     <a href="https://mattiadurso.github.io/sandesc/" align="center"> Project Page</a>
   </h2>
+</p>
+
+<p align="center">
+  <img src="readme_imgs/clock_sandesc.png" alt="ALIKED+SANDesc" width="400px">
+  <img src="readme_imgs/clock_aliked.png" alt="ALIKED" width="400px">
+  <br>
+  <em>ALIKED+SANDesc (right) and ALIKED (left) on images from Clock Tower from the Graz 4K benchmark.</em>
 </p>
 
 ## Installation
