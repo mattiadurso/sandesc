@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="readme_imgs/clock_sandesc.png" alt="ALIKED+SANDesc" width="400px">
-  <img src="readme_imgs/clock_aliked.png" alt="ALIKED" width="400px">
+  <img src="readme_imgs/clock_sandesc.jpg" alt="ALIKED+SANDesc" width="400px">
+  <img src="readme_imgs/clock_aliked.jpg" alt="ALIKED" width="400px">
   <br>
   <em>ALIKED+SANDesc (right) and ALIKED (left) on images from Clock Tower from the Graz 4K benchmark.</em>
 </p>
